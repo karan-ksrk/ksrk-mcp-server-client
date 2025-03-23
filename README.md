@@ -36,20 +36,6 @@
 
 ## Usage
 
-### Running the MCP Server
-
-1. Navigate to the `ksrk-mcp` directory:
-
-   ```sh
-   cd ksrk-mcp
-   ```
-
-2. Run the MCP server:
-
-   ```sh
-   python ksrk-mcp-server.py
-   ```
-
 ### Running the Client
 
 1. Navigate to the root directory:
@@ -98,7 +84,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [ScrapingDog](https://scrapingdog.com) for the web scraping API.
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) for parsing HTML and XML documents.
 - [httpx](https://www.python-httpx.org) for the HTTP client.
-
-## Contact
-
-For any questions or inquiries, please contact [your-email@example.com].
